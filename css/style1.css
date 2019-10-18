@@ -17,17 +17,17 @@ a{
 .grid-item1{
     grid-row: 1/2;
     grid-column: 1/5;
-    background-image: url("img/home/header_bg.png");
+    background-image: url("img/auto/header_bg.png");
 }
 .grid-item2{
     grid-row: 2/3;
     grid-column: 1/5;
-    background-image: url("img/home/banner_bg.png");
+    background-image: url("img/auto/banner_bg.png");
 }
 .grid-item3{
     grid-row: 4/5;
     grid-column: 1/5;
-    background-image: url("img/home/footer_bg2.png");
+    background-image: url("img/auto/footer_bg2.png");
 }
 #grid-item4{
     padding: 20px;
